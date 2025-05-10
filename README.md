@@ -28,6 +28,9 @@ El dataset Hotel Booking Demand contiene información detallada sobre reservas d
 
 🏙️ City Hotel (H2): Localizado en la ciudad de Lisboa.
 
-[Variable.pdf](https://github.com/user-attachments/files/20140331/Variable.pdf)
+![image](https://github.com/user-attachments/assets/0833bd0f-8da9-46af-a47f-e382a5055564)
+![image](https://github.com/user-attachments/assets/3fe8e686-22e1-4252-8075-9b4714b5c6c0)
+![image](https://github.com/user-attachments/assets/46287361-63a8-4248-a918-7ad0fdddcf20)
+![image](https://github.com/user-attachments/assets/6dc03dc8-b454-44fa-9f43-28a029ad70cb)
 
 
