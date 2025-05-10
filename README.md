@@ -22,11 +22,13 @@ El objetivo del presente trabajo es analizar y visualizar los datos de reservas 
 
 ## DATASET
 
-El dataset Hotel Booking Demand contiene información detallada sobre reservas de hotel realizadas entre julio de 2015 y agosto de 2017. Los datos provienen de dos tipos de establecimientos ubicados en Portugal:
+El dataset ["Hotel Booking Demand"](https://www.sciencedirect.com/science/article/pii/S2352340918315191) contiene información detallada sobre reservas de hotel realizadas entre julio de 2015 y agosto de 2017. Los datos provienen de dos tipos de establecimientos ubicados en Portugal:
 
 🏨 Resort Hotel (H1): Situado en la región turística del Algarve.
 
 🏙️ City Hotel (H2): Localizado en la ciudad de Lisboa.
+
+
 
 ![image](https://github.com/user-attachments/assets/0833bd0f-8da9-46af-a47f-e382a5055564)
 ![image](https://github.com/user-attachments/assets/3fe8e686-22e1-4252-8075-9b4714b5c6c0)
