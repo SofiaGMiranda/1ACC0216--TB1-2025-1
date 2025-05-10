@@ -9,6 +9,13 @@
 - [Tema : Análisis exploratorio de un conjuntos de datos en R/RStudio]
 
 - [Docente : Nérida Isabel Manrique Tunque]
+## Integrantes
+
+- [Humberto Aesio Chumbiauca Camac]
+
+- [Sofia Gabriel Miranda Cardenas]
+
+- [Juan José Rodríguez Velásquez]
 
 ## OBJETIVO DEL TRABAJO
 
