@@ -37,8 +37,6 @@ VARIABLES - TIPO Y DESCRIPCIÓN
 
 ## CONCLUSIONES 
 
-Patrones y Tendencias Observadas:
-
 1. Hay una mayor demanda de hospedaje urbano en lugar de resort, lo que podría estar relacionado con el tipo de turismo que predominan en la región (negocios, cultura, turismo urbano).
 
 2. La demanda ha ido en aumento, lo que indica un interés creciente por los destinos donde se ubican los hoteles (Lisboa y Algarve), lo que puede estar relacionado con el crecimiento del turismo en Portugal durante ese período.
