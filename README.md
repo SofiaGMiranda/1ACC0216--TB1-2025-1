@@ -50,5 +50,3 @@ El estacionamiento no es un factor determinante para la mayoría de los huésped
 
 6. Los turistas europeos (principalmente de países cercanos) son una gran fuente de visitantes, pero también hay una presencia significativa de turistas nacionales, lo que sugiere que Portugal es un destino popular tanto para turistas locales como internacionales.
 
-
-
