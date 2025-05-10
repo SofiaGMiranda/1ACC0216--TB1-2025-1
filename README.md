@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/b47b251e-e65c-46c3-a1a4-f0c28ab554dc)
 
-##Universidad Peruana de Ciencias Aplicadas
+## Universidad Peruana de Ciencias Aplicadas
 
 - [Curso : Fundamentos de Data Science]
 
